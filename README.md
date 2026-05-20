@@ -5,7 +5,7 @@ immutisering (Read-Only root) og ekstrem maskinvare-optimalisering.
 
 Gjennom "geriljataktikk" i terminalen bygger jeg systemer som nekter å krasje, 
 enten det er for å tyne de siste dråpene av ytelse ut av eldre maskinvare, 
-eller for å temme moderne MiniPCer.
+eller for å temme moderne PC'er.
 
 Min filosofi er enkel: Maskinvaren er din. Operativsystemet bør tjene *deg*, ikke omvendt. 
 Vi må gjenbruke mer, forstå mer, og ta tilbake kontrollen.

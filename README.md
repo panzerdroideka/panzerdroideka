@@ -10,6 +10,36 @@ eller for å temme moderne PC'er.
 Min filosofi er enkel: Maskinvaren er din. Operativsystemet bør tjene *deg*, ikke omvendt. 
 Vi må gjenbruke mer, forstå mer, og ta tilbake kontrollen.
 
+I document what I learn, share what I create and publish what I discover.
+
+Linux. Open Source. LotRO. Telemetry. Documentation. Norse Music.
+
+Everything is shared freely so others may learn, improve, create and continue the journey.
+
+Learn. Document. Share. Inspire.
+
+🤘🐧⚔️🎻⛰️🍂❄️
+
+
+Open Source is more than software. It is a way of thinking.
+
+My passion is exploring technology, documenting discoveries and sharing knowledge freely with everyone who wishes to learn.
+
+Through Linux, GitHub, hardware telemetry, performance optimization and years of adventures in The Lord of the Rings Online, I have learned that real understanding comes from observation, documentation and sharing experience.
+
+Every configuration, guide, combat log, telemetry report and project I publish is created in the spirit of Open Source:
+
+If I learned it, others should be able to learn it too.
+
+Alongside technology, I create Norse-inspired music based on memories, nature, the seasons, fantasy worlds and life near the mountains of Norway.
+
+Whether you arrive for Linux, LotRO, GitHub projects, telemetry, documentation or music, you are welcome to use what I share, learn from it and create something of your own.
+
+Knowledge shared is knowledge preserved.
+
+If it isn't documented, it didn't happen.
+
+
 ### 🚀 Mitt Hovedprosjekt: Wils-Linux-Legacy
 
 Alt mitt nåværende arbeid, skript, og dokumentasjon er samlet i hovedarkivet mitt. 

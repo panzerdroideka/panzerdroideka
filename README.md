@@ -1,3 +1,21 @@
+### ❤️ Open Source Philosophy
+
+Everything I learn, test, optimize and document is shared publicly.
+
+I believe knowledge grows when it is shared.
+
+If my documentation helps one Linux user revive an old laptop, 
+one LotRO player gain better performance, 
+or one creator learn something new, 
+then the work has already served its purpose.
+
+Learn.
+Document.
+Share.
+Inspire.
+
+"If it isn't documented, it didn't happen."
+
 # 🛡️ Velkommen til Panzerdroideka
 
 Mitt navn er Willy Olsen. Jeg er en dedikert Linux-entusiast med fokus på system-autonomi, 

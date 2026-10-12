@@ -123,3 +123,8 @@ Document it.
 Share it.
 
 "If it isn't documented, it didn't happen."
+
+❤️ Open Source
+Learn. Document. Share. Inspire.
+
+Knowledge shared is knowledge preserved.

@@ -58,6 +58,22 @@ Knowledge shared is knowledge preserved.
 If it isn't documented, it didn't happen.
 
 
+### ❤️ Open Source-filosofi
+
+Alt jeg lærer, tester, optimaliserer og dokumenterer deles offentlig.
+
+Gjennom Linux, GitHub, maskinvaretelemetri og LotRO-combat logs ønsker jeg å vise at resultater kan dokumenteres, etterprøves og deles med andre.
+
+Hvis mine guider, målinger eller erfaringer hjelper én eneste bruker med å lære noe nytt, har arbeidet allerede oppnådd sitt mål.
+
+Learn.
+Document.
+Share.
+Inspire.
+
+"If it isn't documented, it didn't happen."
+
+
 ### 🚀 Mitt Hovedprosjekt: Wils-Linux-Legacy
 
 Alt mitt nåværende arbeid, skript, og dokumentasjon er samlet i hovedarkivet mitt. 
@@ -98,3 +114,12 @@ Here you will find, among other things:
 
 ---
 *Do as I do: Use Linux to take back control of your own hardware.* 🌍
+
+### ⚔️ Warlord Philosophy
+
+Test it.
+Measure it.
+Document it.
+Share it.
+
+"If it isn't documented, it didn't happen."

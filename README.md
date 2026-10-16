@@ -38,6 +38,16 @@ Learn. Document. Share. Inspire.
 
 🤘🐧⚔️🎻⛰️🍂❄️
 
+"Velkommen innom mitt musikk univers"
+
+🎸 Music Channel: https://www.youtube.com/channel/UC4j0ftEKpquOR9yR3_6XHPg
+
+<img width="1218" height="1459" alt="WilsNorseVikingMusic - Kanalbeskrivelse" src="https://github.com/user-attachments/assets/b3d97487-7594-499e-8bc0-57f64429329e" />
+
+<img width="928" height="1725" alt="Wils Norse Viking Music - Shorts" src="https://github.com/user-attachments/assets/ded7341e-9b83-49f3-bf75-719724e9388a" />
+
+<img width="1378" height="1632" alt="Wils Norse Viking Music" src="https://github.com/user-attachments/assets/7b69916d-d132-405d-b0ef-d1cb8011c035" />
+
 
 Open Source is more than software. It is a way of thinking.
 

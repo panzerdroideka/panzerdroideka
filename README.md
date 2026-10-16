@@ -87,6 +87,8 @@ Her finner du blant annet:
 ---
 *Gjør som meg: Bruk Linux til å ta tilbake kontrollen over din egen maskinvare.* 🌍
 
+<img width="981" height="1518" alt="Screenshot_20261017_014028" src="https://github.com/user-attachments/assets/7e3b83e6-4035-4bf3-9891-80bb86f9ec5e" />
+
 
 # 🛡️ Welcome to Panzerdroideka
 

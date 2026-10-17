@@ -67,6 +67,10 @@ Knowledge shared is knowledge preserved.
 
 If it isn't documented, it didn't happen.
 
+And if you need map guidance i can be of some help here:
+
+<img width="1344" height="7506" alt="Screenshot_20261017-020208" src="https://github.com/user-attachments/assets/a1f3fbcf-8961-45e1-bd6a-4f547352fb85" />
+
 
 ### ❤️ Open Source-filosofi
 
